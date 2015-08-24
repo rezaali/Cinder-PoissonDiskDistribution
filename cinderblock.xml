@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cinder>
+<block
+	name="PoissonDiskDistribution"
+	git="git://github.com/rezaali/Cinder-PoissonDiskDistribution.git"
+	url="https://github.com/rezaali/Cinder-PoissonDiskDistribution"
+	author="Reza Ali"
+	summary=""
+	license="MIT"
+	>
+	<headerPattern>src/*.h</headerPattern>
+	<sourcePattern>src/*.cpp</sourcePattern>
+</block>
+</cinder>
