@@ -2,7 +2,7 @@
 <cinder>
 <block
 	name="PoissonDiskDistribution"
-	git="git://github.com/rezaali/Cinder-PoissonDiskDistribution.git"
+	git="https://github.com/rezaali/Cinder-PoissonDiskDistribution.git"
 	url="https://github.com/rezaali/Cinder-PoissonDiskDistribution"
 	author="Simon Geilfus"
 	summary="Poisson Disk Distribution block for Cinder 0.9.0+ by simongeilfus (blockified by rezaali)"
